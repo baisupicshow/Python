@@ -1,0 +1,2 @@
+python getBaiduPic.py
+pause
